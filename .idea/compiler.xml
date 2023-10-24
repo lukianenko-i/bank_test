@@ -10,8 +10,11 @@
         <module name="bank_test" />
       </profile>
     </annotationProcessing>
+<<<<<<< HEAD
     <bytecodeTargetLevel>
       <module name="bank_test" target="17" />
     </bytecodeTargetLevel>
+=======
+>>>>>>> origin/master
   </component>
 </project>

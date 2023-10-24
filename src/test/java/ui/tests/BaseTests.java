@@ -1,5 +1,6 @@
 package ui.tests;
 
+import org.testng.annotations.AfterClass;
 import ui.tools.ConfProperties;
 import ui.tools.TestHelper;
 import io.github.bonigarcia.wdm.WebDriverManager;
@@ -35,9 +36,9 @@ public class BaseTests {
     }
 
 
-//
-//    @AfterClass
-//    public static void Stop() {
-//        driver.quit();
-//    }
+
+    @AfterClass
+    public static void Stop() {
+        driver.quit();
+    }
 }
