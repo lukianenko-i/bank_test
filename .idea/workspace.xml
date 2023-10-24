@@ -244,12 +244,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ui/tests/BaseTests.java</url>
-          <line>29</line>
+          <line>30</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/ui/tests/BaseTests.java</url>
-          <line>20</line>
+          <line>21</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -265,7 +265,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/ui/tests/BaseTests.java</url>
-          <line>28</line>
+          <line>29</line>
           <properties class="ui.tests.BaseTests" method="setup">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
