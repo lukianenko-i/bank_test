@@ -112,7 +112,7 @@ public class MethodsExchangePage extends ExchangePage {
         Specification.installSpecification(
                 Specification.responseSpecification200(),
                 Specification.requestSpecification(ConfProperties.getProperty("URL")));
-
+    //
         List<ExchangeApi> eurExchangeList = getExchangeEur();
 
         String buyValue = eurExchangeList.get(0).getBuy();
