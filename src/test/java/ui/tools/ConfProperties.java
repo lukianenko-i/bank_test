@@ -10,7 +10,7 @@ public class ConfProperties {
 
     static {
         try {
-            fileInputStream = new FileInputStream("C:\\Users\\Win10_Game_OS\\Desktop\\bank_test\\src\\test\\resources\\resources.properties");
+            fileInputStream = new FileInputStream("\\bank_test\\src\\test\\resources\\resources.properties");
             PROPERTIES = new Properties();
             PROPERTIES.load(fileInputStream);
         } catch (IOException e) {
